@@ -6,7 +6,8 @@
 # Quickstart - Ollama 
 # https://docs.ollama.com/quickstart
 
-dirname="C:\LicensePlate_Ollama\Test"
+#dirname="C:\LicensePlate_Ollama\Test"
+dirname="Test"
 
 
 import time
