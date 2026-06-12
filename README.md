@@ -206,4 +206,8 @@ https://huggingface.co/spaces/ankandrew/fast-alpr
 
 https://github.com/ablanco1950/LicensePlate_Yolov8_Filters_PaddleOCR	
 
+Note:
+The program will need to be modified to account for all of Ollama's possible responses, which don't appear to be many.
+The system's excessive sensitivity has been verified: changing the directory where an image is located causes Ollama DeepSeek-OCR to fail to recognize it, for no apparent reason.
+
 
