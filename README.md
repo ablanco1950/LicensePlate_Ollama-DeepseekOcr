@@ -32,171 +32,171 @@ The console will display messages indicating the image being processed, the text
 The console appears:
 
 = RESTART: C:\LicensePlate_Ollama-DeepseekOcr\GetNumberLicensePlate_Ollama-DeepseekOcr.py
-Reading images from C:\LicensePlate_Ollama\Test\
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\01CC1A0001.png
-Ollama response: The text on the license plate is "CC1A0001".
-After cleaning text, returns: CC1A0001
+Reading imagenes from  Test\
+Asking Ollama: text of license plate from car in image Test\01CC1A0001.png
+Ollama response:  
+After cleaning text, returns: 
 FAILURE the License Plate is 01CC1A0001
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\067RAF.png
-Ollama response: The license plate number is "067RAF".
+Asking Ollama: text of license plate from car in image Test\067RAF.png
+Ollama response:  
+The text of the license plate from the car in the image is "067RAF".
 After cleaning text, returns: 067RAF
 HIT the License Plate is 067RAF
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\12682011.png
-Ollama response: The license plate number is "12682011".
+Asking Ollama: text of license plate from car in image Test\12682011.png
+Ollama response:  The license plate number is "12682011".
 After cleaning text, returns: 12682011
 HIT the License Plate is 12682011
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\172TMJ.png
-Ollama response: The license plate number is "172TMJ".
-
-The license plate is from a car, and the image is a screenshot of the car's dashboard. The license plate is located in the center of the image, and the text is clearly visible.
+Asking Ollama: text of license plate from car in image Test\172TMJ.png
+Ollama response:  The license plate number is "172TMJ".
 After cleaning text, returns: 172TMJ
 HIT the License Plate is 172TMJ
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\8544.png
-Ollama response: The license plate number is "8544".
-
-The license plate is from a car, and the image is a screenshot of the car's dashboard. The license plate is located on the front of the car, and the image is taken from a slightly elevated angle, showing the entire license plate.
+Asking Ollama: text of license plate from car in image Test\8544.png
+Ollama response:  The license plate number is "8544".
 After cleaning text, returns: 8544
 HIT the License Plate is 8544
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\BAD231.png
-Ollama response: The license plate number is "Ollama" and the text is "Test".
-After cleaning text, returns: Ollama
-FAILURE the License Plate is BAD231
+Asking Ollama: text of license plate from car in image Test\BAD231.png
+Ollama response:  The license plate number is "BAD231".
+After cleaning text, returns: BAD231
+HIT the License Plate is BAD231
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\BMW.png
-Ollama response: The license plate number is "BMW".
-
-The image shows a white car with a black and white license plate. The license plate is from a BMW car, as indicated by the text "BMW" at the top of the plate. The license plate number is "BMW" and is located in the center of the plate. The plate is rectangular in shape and has a black background with white lettering. The text is in a standard font and is easy to read. The license plate is mounted on the front of the car and is visible to other drivers on the road.
-After cleaning text, returns: BMW
-HIT the License Plate is BMW
+Asking Ollama: text of license plate from car in image Test\BMW.png
+Ollama response:  The license plate of a car is a unique identifier for the vehicle, and it is used to track and identify the car. The text on the license plate is usually in the format of a combination of letters and numbers, and it is used to display the registration details of the car. The text on the license plate can include the make and model of the car, the registration date, and the registration number. The text on the license plate is usually printed in a specific font and color, and it is designed to be easily readable from a distance. The text on the license plate is also used to display the car's registration status, such as whether the car is registered in the owner's name or in the name of a company. The text on the license plate is usually updated regularly to reflect any changes in the car's registration details.
+After cleaning text, returns: a unique identifier for the vehicle, and it is used to track and identify the car The text on the license plate is usually in the format of a combination of letters and numbers, and it is used to display the registration details of the car The text on the license plate can include the make and model of the car, the registration date, and the registration number The text on the license plate is usually printed in a specific font and color, and it is designed to be easily readable from a distance The text on the license plate is also used to display the car's registration status, such as whether the car is registered in the owner's name or in the name of a company The text on the license plate is usually updated regularly to reflect any changes in the car's registration details
+FAILURE the License Plate is BMW
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\CRAIG.png
-Ollama response: The license plate reads "CRAIG" and is located on a car in the image.
-After cleaning text, returns: CRAIG
-HIT the License Plate is CRAIG
+Asking Ollama: text of license plate from car in image Test\CRAIG.png
+Ollama response:  The license plate of a car reads "CRAIG".
+After cleaning text, returns: 
+FAILURE the License Plate is CRAIG
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\DRUNK.png
-Ollama response: The license plate number is "DRUNK" and the text is "Test".
+Asking Ollama: text of license plate from car in image Test\DRUNK.png
+Ollama response:  The license plate of the car in the image is "DRUNK".
 After cleaning text, returns: DRUNK
 HIT the License Plate is DRUNK
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\EWWPOOP.png
-Ollama response: The text on the license plate is "EWWPOOP".
-After cleaning text, returns: EWWPOOP
-HIT the License Plate is EWWPOOP
+Asking Ollama: text of license plate from car in image Test\EWWPOOP.png
+Ollama response:  "}}
+After cleaning text, returns: 
+FAILURE the License Plate is EWWPOOP
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\G526JHD.png
-Ollama response:  The license plate number is "G526JHD".
-After cleaning text, returns: G526JHD
-HIT the License Plate is G526JHD
+Asking Ollama: text of license plate from car in image Test\G526JHD.png
+Ollama response:  The license plate in the image is from a car, and the text on it is "G526JHD".
+After cleaning text, returns: from a car, and the text on it is G526JHD
+FAILURE the License Plate is G526JHD
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\HR26BC55I4.png
-Ollama response:  The text on the license plate is "HR26BC5".
-After cleaning text, returns: HR26BC5
+Asking Ollama: text of license plate from car in image Test\HR26BC55I4.png
+Ollama response:  
+After cleaning text, returns: 
 FAILURE the License Plate is HR26BC55I4
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\KA03MG2784.png
-Ollama response:  The text on the license plate is "KA03".
-After cleaning text, returns: KA03
+Asking Ollama: text of license plate from car in image Test\KA03MG2784.png
+Ollama response:  
+After cleaning text, returns: 
 FAILURE the License Plate is KA03MG2784
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\LR33TEE.png
+Asking Ollama: text of license plate from car in image Test\LR33TEE.png
 Ollama response:  The license plate reads "LR33TEE".
 After cleaning text, returns: LR33TEE
 HIT the License Plate is LR33TEE
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\MH12NE8922.png
-Ollama response:  The text on the license plate is "MH12NE8922".
+Asking Ollama: text of license plate from car in image Test\MH12NE8922.png
+Ollama response:  The license plate number is MH12NE8922.
 After cleaning text, returns: MH12NE8922
 HIT the License Plate is MH12NE8922
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\MH149239GN.png
-Ollama response:  The license plate number is "MH149239GN".
+Asking Ollama: text of license plate from car in image Test\MH149239GN.png
+Ollama response:  The license plate number is MH149239GN.
 After cleaning text, returns: MH149239GN
 HIT the License Plate is MH149239GN
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\MH14LC35B7.png
-Ollama response:  The text on the license plate is "MH14LC3B7".
-After cleaning text, returns: MH14LC3B7
+Asking Ollama: text of license plate from car in image Test\MH14LC35B7.png
+Ollama response:  The text on the license plate is "MH14LC35".
+After cleaning text, returns: MH14LC35
 FAILURE the License Plate is MH14LC35B7
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\MH20EE7596.png
-Ollama response:  The license plate of a car in the image C:\LicensePlate_Ollama\Test\MH20text of license plate from car in image C:\LicensePlate_Ollama\Test\MHtext of license plate from car in image C:\LicensePlate_Ollama\Test\MH2
-After cleaning text, returns: 
-FAILURE the License Plate is MH20EE7596
+Asking Ollama: text of license plate from car in image Test\MH20EE7596.png
+Ollama response:  The license plate number is MH20EE7596.
+After cleaning text, returns: MH20EE7596
+HIT the License Plate is MH20EE7596
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\OX65AWD.png
-Ollama response:  The text on the license plate is "OX65AWD".
+Asking Ollama: text of license plate from car in image Test\OX65AWD.png
+Ollama response:  The license plate reads "OX65AWD".
 After cleaning text, returns: OX65AWD
 HIT the License Plate is OX65AWD
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\P3RVP.png
-Ollama response:  The text on the license plate is "P3RVP".
+Asking Ollama: text of license plate from car in image Test\P3RVP.png
+Ollama response:  The license plate reads "P3RVP".
 After cleaning text, returns: P3RVP
 HIT the License Plate is P3RVP
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\PETE1.png
-Ollama response:  The license plate number is "PETE1".
-
-The license plate is from a car, and the image is a screenshot of the car's dashboard. The license plate is located in the center of the image, and the text is clearly visible.
+Asking Ollama: text of license plate from car in image Test\PETE1.png
+Ollama response:  The license plate of the car in the image is "PETE1".
 After cleaning text, returns: PETE1
 HIT the License Plate is PETE1
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\RK977AF.png
+Asking Ollama: text of license plate from car in image Test\RK977AF.png
 Ollama response:  The license plate reads "RK977AF".
 After cleaning text, returns: RK977AF
 HIT the License Plate is RK977AF
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\SGQ51JU.png
+Asking Ollama: text of license plate from car in image Test\SGQ51JU.png
 Ollama response:  The license plate number is "SGQ51JU".
 After cleaning text, returns: SGQ51JU
 HIT the License Plate is SGQ51JU
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\SKIPGAS.png
-Ollama response:  The license plate reads "SKIPGAS" and is from a car in the image.
+Asking Ollama: text of license plate from car in image Test\SKIPGAS.png
+Ollama response:  The license plate of the car in the image is "SKIPGAS".
 After cleaning text, returns: SKIPGAS
 HIT the License Plate is SKIPGAS
 
 
-Asking Ollama: text of license plate from car in image C:\LicensePlate_Ollama\Test\VIPER.png
-Ollama response:  The license plate number is "Ollama" and the text is "VIPER".
-After cleaning text, returns: Ollama
+Asking Ollama: text of license plate from car in image Test\VIPER.png
+Ollama response:  The license plate of a car in the image reads "VIPER".
+After cleaning text, returns: 
 FAILURE the License Plate is VIPER
 
 
-HITS=18
-FAILURES=7
- Time in seconds 47.75436210632324
->>> 
+HITS=16
+FAILURES=9
+ Time in seconds 36.60471844673157
+
+ A log file LogTest.docx is attached
 
 An Excel spreadsheet, comparisons.xls, is attached with the comparison performed with other systems:
+
+CONCLUSIONS:
+The results are acceptable compared to other systems (see the comparisons.xls Excel file). Furthermore, three errors are due to the text extraction program , a program that is clearly in need of improvement.
+The program has the advantages of running locally, not requiring an API, and the execution time for each image is less than 1.5 seconds.
+
+References:
 
 GEMINI 3.15Flash
 
