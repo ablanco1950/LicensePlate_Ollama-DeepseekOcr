@@ -19,6 +19,8 @@ In the project runtime environment, install the Ollama module:
 
 pip install ollama
 
+A requirements.txt file is attached.
+
 Test:
 
 Run the program:
